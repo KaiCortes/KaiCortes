@@ -1,9 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Kai 👋
 
-<!--
-**KaiCortes/KaiCortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## About me
+Davante Medac Studient
+2D & 3D Animator
+Artist & Character Designer
+Github & Unity Programer
+<br>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
